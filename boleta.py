@@ -363,12 +363,12 @@ class Boleta:
                 """)
         else:
             print("""
-            No se registro ningun cliente
+            No se registro ningun producto
                 """)
         print("""
             --------------------------------------------------
-                        GRACIAS POR SU PREFERENNCIA
-                            HASTA  LA PROXIMA 
+                        GRACIAS POR SU PREFERENCIA
+                            HASTA  LA PRÓXIMA 
             -------------------------------------------------- 
                 """)
     
